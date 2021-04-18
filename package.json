@@ -1,0 +1,23 @@
+{
+  "name": "discord-rpc",
+  "version": "1.0.0",
+  "description": "a way of putting a status on discord!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterhanania/discord-rpc.git"
+  },
+  "keywords": [
+    "discord",
+    "discord-rpc"
+  ],
+  "author": "peter hanania",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterhanania/discord-rpc/issues"
+  },
+  "homepage": "https://github.com/peterhanania/discord-rpc#readme"
+}
