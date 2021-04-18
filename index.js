@@ -28,4 +28,4 @@ buttons : [{label : "Button1" , url : "https://github.com/peterhanania/discord-r
 });
 
 client.login({ clientId :  config.client_id});
-console.log('Im ready!')
+console.log(' --| Im ready |--')
